@@ -56,8 +56,11 @@ node app.js
 ### Notes
 * need to app.use(app.router) after Passport.
 * ensure local.host in /etc/hosts
- > cat /etc/hosts
- 127.0.0.1 localhost local.host
+
+<pre>
+> cat /etc/hosts
+127.0.0.1 localhost local.host
+</pre>
 
 ## Comments
 * simple, acceptable code complexity.
