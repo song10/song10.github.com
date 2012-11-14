@@ -11,6 +11,9 @@ tags: []
 * [Creating CSS3 Navigation Menus: Fresh Tutorials, Techniques and Tools](http://www.splashnology.com/article/creating-css3-navigation-menus-fresh-tutorials-techniques-and-tools/1385/)
 * [40+ Excellent CSS3 Menu Tutorials](http://www.smashingapps.com/2012/03/14/40-excellent-css3-menu-tutorials.html)
 * [19 Valuable CSS3/HTML5 Menu and Navigation Tutorials Released in 2012](http://www.multyshades.com/2012/06/19-valuable-css3html5-menu-and-navigation-tutorials-released-in-2012/)
+* [Horizontally Centered Menus with no CSS hacks](http://matthewjamestaylor.com/blog/beautiful-css-centered-menus-no-hacks-full-cross-browser-support)
+* [CSS3 Selectors](http://www.w3.org/TR/2001/CR-css3-selectors-20011113/)
+* [Cloud9 IDE](https://c9.io/)
 
 # Cool Samples
 * [clean ocean](http://www.script-tutorials.com/demos/87/index.html)
@@ -30,3 +33,4 @@ tags: []
 * [Menu Notification Badges Using HTML5 Data-Attributes](http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/menu-notification-badges-using-html5-data-attributes/)
 
 # Home Made
+[Template@Cloud9](http://cssmenu.song10.c9.io/)
